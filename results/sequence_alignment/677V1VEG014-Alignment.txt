@@ -1,0 +1,2185 @@
+RID: 677V1VEG014	
+Job Title:sp|P01308|INS_HUMAN Insulin OS=Homo sapiens				
+Program: BLASTP 
+Database: refseq_protein NCBI Protein Reference Sequences
+Query #1: sp|P01308|INS_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1 Query ID: lcl|Query_10917518 Length: 110
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+insulin isoform X1 [Gorilla gorilla gorilla]                      Gorilla gori... western lowl... 9595       226    226   100%  5e-74 100.00 153        XP_004050475.2   
+insulin preproprotein [Homo sapiens]                              Homo sapiens    human           9606       223    223   100%  2e-73 100.00 110        NP_000198.1      
+insulin isoform X2 [Pongo abelii]                                 Pongo abelii    Sumatran ora... 9601       222    222   100%  7e-73 99.09  110        XP_024110665.1   
+insulin preproprotein [Pan troglodytes]                           Pan troglodytes chimpanzee      9598       221    221   100%  1e-72 98.18  110        NP_001008996.1   
+insulin [Pan paniscus]                                            Pan paniscus    pygmy chimpa... 9597       224    224   100%  2e-72 99.09  204        XP_034787832.1   
+insulin isoform X1 [Pan troglodytes]                              Pan troglodytes chimpanzee      9598       224    224   100%  2e-72 99.09  204        XP_016775240.2   
+insulin isoform X2 [Symphalangus syndactylus]                     Symphalangus... siamang         9590       222    222   100%  3e-72 98.18  153        XP_055150526.1   
+insulin isoform X1 [Macaca nemestrina]                            Macaca nemes... pig-tailed m... 9545       221    221   100%  4e-72 98.18  153        XP_011719619.2   
+insulin isoform X2 [Nomascus leucogenys]                          Nomascus leu... northern whi... 61853      219    219   100%  1e-71 98.18  110        XP_003281399.1   
+insulin isoform X2 [Hylobates moloch]                             Hylobates mo... silvery gibbon  81572      220    220   100%  1e-71 97.27  153        XP_032009712.2   
+insulin [Macaca fascicularis]                                     Macaca fasci... crab-eating ... 9541       219    219   100%  4e-71 98.18  147        XP_065383852.1   
+insulin isoform X3 [Hylobates moloch]                             Hylobates mo... silvery gibbon  81572      218    218   100%  4e-71 97.27  110        XP_032009711.1   
+insulin isoform X2 [Papio anubis]                                 Papio anubis    olive baboon    9555       218    218   100%  4e-71 97.27  110        XP_003909425.2   
+insulin isoform X2 [Chlorocebus sabaeus]                          Chlorocebus ... green monkey    60711      218    218   100%  5e-71 97.27  144        XP_008002825.1   
+PREDICTED: insulin [Cercocebus atys]                              Cercocebus atys sooty mangabey  9531       216    216   100%  9e-71 96.36  110        XP_011896559.1   
+insulin isoform X2 [Rhinopithecus bieti]                          Rhinopithecu... black snub-n... 61621      218    218   100%  1e-70 97.27  147        XP_017743290.1   
+insulin isoform X1 [Piliocolobus tephrosceles]                    Piliocolobus... Ugandan red ... 591936     216    216   100%  1e-70 96.36  110        XP_023039285.1   
+insulin isoform X1 [Papio anubis]                                 Papio anubis    olive baboon    9555       217    217   100%  1e-70 97.27  147        XP_017803627.2   
+insulin isoform X4 [Theropithecus gelada]                         Theropithecu... gelada          9565       214    214   100%  5e-70 96.36  110        XP_025211013.1   
+insulin isoform X2 [Piliocolobus tephrosceles]                    Piliocolobus... Ugandan red ... 591936     216    216   100%  5e-70 96.36  147        XP_023039287.1   
+insulin isoform X1 [Chlorocebus sabaeus]                          Chlorocebus ... green monkey    60711      218    218   100%  7e-70 97.27  209        XP_008002752.1   
+insulin isoform X2 [Theropithecus gelada]                         Theropithecu... gelada          9565       214    214   100%  2e-69 96.36  147        XP_025211011.1   
+insulin [Tupaia belangeri chinensis]                              Tupaia belan... Chinese tree... 246437     188    188   100%  2e-59 91.82  110        XP_006141129.1   
+insulin-1 [Rattus rattus]                                         Rattus rattus   black rat       10117      186    186   100%  1e-58 81.82  110        XP_032748073.1   
+insulin [Kogia breviceps]                                         Kogia breviceps pygmy sperm ... 27615      185    185   100%  2e-58 88.18  110        XP_058924587.1   
+insulin [Micromys minutus]                                        Micromys min... European har... 13151      184    184   100%  5e-58 79.09  110        XP_080768357.1   
+insulin [Mus caroli]                                              Mus caroli      Ryukyu mouse    10089      182    182   100%  5e-57 80.00  110        XP_021024413.1   
+insulin isoform X1 [Nannospalax galili]                           Nannospalax ... Upper Galile... 1026970    181    181   100%  8e-57 87.27  110        XP_008837426.1   
+insulin [Lipotes vexillifer]                                      Lipotes vexi... Yangtze Rive... 118797     179    179   100%  5e-56 86.36  110        XP_007466015.1   
+insulin [Acomys russatus]                                         Acomys russatus golden spiny... 60746      176    176   100%  9e-55 84.55  110        XP_051002988.1   
+insulin [Chionomys nivalis]                                       Chionomys ni... European sno... 269649     175    175   100%  2e-54 85.45  110        XP_057635926.1   
+insulin [Arvicola amphibius]                                      Arvicola amp... Eurasian wat... 1047088    175    175   100%  2e-54 84.55  110        XP_038173309.1   
+insulin [Cricetulus griseus]                                      Cricetulus g... Chinese hamster 10029      175    175   100%  3e-54 86.36  110        XP_003508128.1   
+insulin [Peromyscus maniculatus bairdii]                          Peromyscus m... prairie deer... 230844     175    175   100%  3e-54 85.45  110        XP_006977353.1   
+insulin [Nycticebus coucang]                                      Nycticebus c... slow loris      9470       174    174   100%  4e-54 86.36  110        XP_053418912.1   
+insulin isoform 1 [Acomys minous]                                 Acomys minous   Crete spiny ... 83528      174    174   100%  5e-54 83.64  110        XP_084628431.1   
+insulin [Alexandromys fortis]                                     Alexandromys... reed vole       100897     175    175   100%  6e-54 85.45  128        XP_049992438.1   
+insulin-1 [Mastomys coucha]                                       Mastomys coucha southern mul... 35658      174    174   100%  6e-54 83.64  110        XP_031240877.1   
+insulin [Apodemus sylvaticus]                                     Apodemus syl... European woo... 10129      174    174   100%  6e-54 82.73  110        XP_052029588.1   
+insulin [Microtus pennsylvanicus]                                 Microtus pen... meadow vole     10058      174    174   100%  7e-54 84.55  110        XP_075831044.1   
+insulin [Microtus ochrogaster]                                    Microtus och... prairie vole    79684      174    174   100%  8e-54 84.55  110        XP_005351628.2   
+insulin [Myodes glareolus]                                        Myodes glare... Bank vole       447135     173    173   100%  1e-53 84.55  110        XP_048314329.1   
+insulin [Peromyscus eremicus]                                     Peromyscus e... cactus mouse    42410      173    173   100%  2e-53 84.55  110        XP_059105702.1   
+insulin precursor [Oryctolagus cuniculus]                         Oryctolagus ... rabbit          9986       173    173   100%  2e-53 86.36  110        NP_001353985.1   
+insulin-2 preproprotein [Rattus norvegicus]                       Rattus norve... Norway rat      10116      172    172   100%  3e-53 82.73  110        NP_062003.1      
+insulin [Mesocricetus auratus]                                    Mesocricetus... golden hamster  10036      172    172   100%  3e-53 83.64  110        XP_012968060.1   
+insulin-2 [Rattus rattus]                                         Rattus rattus   black rat       10117      172    172   100%  4e-53 82.73  110        XP_032747262.1   
+insulin [Sapajus apella]                                          Sapajus apella  tufted capuchin 9515       171    171   100%  6e-53 85.45  108        XP_032124369.1   
+insulin isoform X2 [Aotus nancymaae]                              Aotus nancymaae Ma's night m... 37293      171    171   100%  6e-53 86.36  108        XP_012311615.1   
+insulin isoform X1 [Aotus nancymaae]                              Aotus nancymaae Ma's night m... 37293      173    173   100%  6e-53 86.36  155        XP_064226392.1   
+insulin isoform X1 [Otolemur garnettii]                           Otolemur gar... small-eared ... 30611      171    171   100%  8e-53 84.55  110        XP_003798420.1   
+insulin-2 isoform X3 [Mastomys coucha]                            Mastomys coucha southern mul... 35658      171    171   100%  9e-53 81.82  110        XP_031244810.1   
+insulin-2 isoform X1 [Rattus norvegicus]                          Rattus norve... Norway rat      10116      171    171   100%  9e-53 82.73  119        XP_063136821.1   
+insulin-1 preproprotein [Rattus norvegicus]                       Rattus norve... Norway rat      10116      171    171   100%  1e-52 82.73  110        NP_062002.1      
+insulin-2 [Mus pahari]                                            Mus pahari      shrew mouse     10093      171    171   100%  1e-52 82.73  110        XP_021060484.1   
+insulin-2 [Arvicanthis niloticus]                                 Arvicanthis ... Nile rat        61156      171    171   100%  1e-52 81.82  110        XP_034379025.1   
+insulin [Pteropus alecto]                                         Pteropus alecto black flying... 9402       170    170   100%  3e-52 84.55  110        XP_006911039.1   
+insulin [Canis aureus]                                            Canis aureus    golden jackal   68724      170    170   100%  3e-52 88.18  110        XP_077718997.1   
+insulin precursor [Canis lupus familiaris]                        Canis lupus ... dog             9615       170    170   100%  3e-52 88.18  110        NP_001123565.1   
+insulin isoform X3 [Nomascus leucogenys]                          Nomascus leu... northern whi... 61853      169    169   100%  4e-52 87.27  98         XP_030667342.1   
+insulin-2 preproprotein [Mus musculus]                            Mus musculus    house mouse     10090      169    169   100%  5e-52 81.82  110        NP_001172012.1   
+insulin [Eulemur rufifrons]                                       Eulemur rufi... Bennett's br... 859984     169    169   100%  5e-52 87.27  109        XP_069327944.1   
+insulin isoform X2 [Vulpes vulpes]                                Vulpes vulpes   red fox         9627       169    169   100%  6e-52 88.18  124        XP_072614830.1   
+insulin [Vulpes lagopus]                                          Vulpes lagopus  Arctic fox      494514     169    169   100%  9e-52 87.27  110        XP_041578098.1   
+insulin [Panthera tigris]                                         Panthera tigris tiger           9694       168    168   100%  1e-51 82.73  110        XP_042815670.1   
+insulin [Hyperoodon ampullatus]                                   Hyperoodon a... northern bot... 48744      168    168   100%  1e-51 88.18  110        XP_079565706.1   
+insulin-2 [Grammomys surdaster]                                   Grammomys su... NA              491861     168    168   100%  1e-51 80.91  110        XP_028642854.1   
+insulin isoform X2 [Callithrix jacchus]                           Callithrix j... white-tufted... 9483       168    168   100%  2e-51 85.45  108        XP_035119628.1   
+insulin [Lemur catta]                                             Lemur catta     Ring-tailed ... 9447       168    168   100%  2e-51 90.00  110        XP_045414405.1   
+insulin isoform X1 [Callithrix jacchus]                           Callithrix j... white-tufted... 9483       169    169   100%  2e-51 85.45  148        XP_035119627.2   
+PREDICTED: insulin isoform X3 [Colobus angolensis palliatus]      Colobus ango... NA              336983     167    167   100%  2e-51 86.36  98         XP_011785466.1   
+insulin [Meriones unguiculatus]                                   Meriones ung... Mongolian ge... 10047      167    167   100%  2e-51 82.73  110        XP_021490460.1   
+insulin [Balaenoptera musculus]                                   Balaenoptera... blue whale      9771       167    167   100%  2e-51 88.18  110        XP_036716824.1   
+insulin [Lepus europaeus]                                         Lepus europaeus European hare   9983       167    167   100%  3e-51 85.45  107        XP_062051635.1   
+insulin-1 [Mus pahari]                                            Mus pahari      shrew mouse     10093      167    167   100%  4e-51 81.82  110        XP_021070669.1   
+insulin [Herpailurus yagouaroundi]                                Herpailurus ... jaguarundi      1608482    167    167   100%  4e-51 80.91  110        XP_040322184.1   
+insulin [Panthera pardus]                                         Panthera pardus leopard         9691       167    167   100%  4e-51 81.82  110        XP_019292555.1   
+insulin [Prionailurus bengalensis]                                Prionailurus... leopard cat     37029      167    167   100%  4e-51 81.82  110        XP_043437955.1   
+insulin [Hyaena hyaena]                                           Hyaena hyaena   striped hyena   95912      167    167   100%  5e-51 83.64  110        XP_039081000.1   
+insulin [Psammomys obesus]                                        Psammomys ob... fat sand rat    48139      167    167   100%  5e-51 81.82  110        XP_055470674.1   
+insulin-2 isoform X2 [Mastomys coucha]                            Mastomys coucha southern mul... 35658      167    167   100%  5e-51 81.08  111        XP_031244809.1   
+insulin [Arvicanthis niloticus]                                   Arvicanthis ... Nile rat        61156      166    166   100%  6e-51 80.00  110        XP_076778178.1   
+PREDICTED: insulin [Propithecus coquereli]                        Propithecus ... Coquerel's s... 379532     166    166   100%  7e-51 84.55  110        XP_012507423.1   
+insulin [Hipposideros armiger]                                    Hipposideros... great roundl... 186990     166    166   100%  9e-51 86.36  110        XP_019522928.1   
+insulin-1 [Grammomys surdaster]                                   Grammomys su... NA              491861     166    166   100%  1e-50 80.00  110        XP_028632266.1   
+insulin [Leopardus geoffroyi]                                     Leopardus ge... Geoffroy's cat  46844      166    166   100%  1e-50 80.91  110        XP_045343176.1   
+insulin-1-like [Apodemus sylvaticus]                              Apodemus syl... European woo... 10129      166    166   100%  1e-50 78.18  110        XP_052028151.1   
+insulin [Saimiri boliviensis]                                     Saimiri boli... Bolivian squ... 27679      167    167   100%  2e-50 83.64  155        XP_010329449.2   
+insulin [Balaenoptera physalus]                                   Balaenoptera... Fin whale       9770       165    165   100%  2e-50 87.27  110        XP_082334509.1   
+LOW QUALITY PROTEIN: insulin [Eubalaena glacialis]                Eubalaena gl... North Atlant... 27606      169    169   100%  2e-50 88.18  234        XP_061059793.1   
+insulin isoform X5 [Theropithecus gelada]                         Theropithecu... gelada          9565       164    164   100%  3e-50 85.45  98         XP_025211016.1   
+insulin [Balaenoptera borealis]                                   Balaenoptera... sei whale       9768       164    164   100%  5e-50 87.27  110        XP_082196907.1   
+insulin [Miniopterus schreibersii]                                Miniopterus ... Schreibers' ... 9433       164    164   100%  6e-50 86.36  110        XP_081010374.1   
+insulin [Mesoplodon densirostris]                                 Mesoplodon d... Blainville's... 48708      163    163   100%  1e-49 86.36  110        XP_059960577.1   
+insulin isoform X3 [Theropithecus gelada]                         Theropithecu... gelada          9565       164    164   100%  1e-49 85.45  135        XP_025211012.1   
+insulin [Rhinolophus hipposideros]                                Rhinolophus ... lesser horse... 77218      163    163   100%  1e-49 90.00  110        XP_080920038.1   
+insulin [Castor canadensis]                                       Castor canad... American beaver 51338      163    163   100%  1e-49 86.36  110        XP_020024407.1   
+insulin precursor [Felis catus]                                   Felis catus     domestic cat    9685       163    163   100%  1e-49 80.91  110        NP_001009272.1   
+insulin [Mesoplodon bidens]                                       Mesoplodon b... Sowerby's be... 48745      163    163   100%  1e-49 86.36  110        XP_081097169.1   
+insulin [Rhinolophus sinicus]                                     Rhinolophus ... Chinese rufo... 89399      163    163   100%  1e-49 89.09  110        XP_019569256.1   
+
+
+Alignments:
+
+>insulin isoform X1 [Gorilla gorilla gorilla]
+Sequence ID: XP_004050475.2 Length: 153
+Range 1: 44 to 153
+
+Score:226 bits(576), Expect:5e-74, 
+Method:Compositional matrix adjust., 
+Identities:110/110(100%), Positives:110/110(100%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  44   MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  103
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  104  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  153
+
+
+
+
+>insulin preproprotein [Homo sapiens]
+Sequence ID: NP_000198.1 Length: 110
+>insulin preproprotein [Homo sapiens]
+Sequence ID: NP_001172026.1 Length: 110
+>insulin preproprotein [Homo sapiens]
+Sequence ID: NP_001172027.1 Length: 110
+>insulin preproprotein [Homo sapiens]
+Sequence ID: NP_001278826.1 Length: 110
+>insulin isoform X2 [Gorilla gorilla gorilla]
+Sequence ID: XP_063566949.1 Length: 110
+>insulin isoform X2 [Gorilla gorilla gorilla]
+Sequence ID: XP_063566950.1 Length: 110 
+Range 1: 1 to 110
+
+Score:223 bits(569), Expect:2e-73, 
+Method:Compositional matrix adjust., 
+Identities:110/110(100%), Positives:110/110(100%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Pongo abelii]
+Sequence ID: XP_024110665.1 Length: 110
+>insulin [Pongo pygmaeus]
+Sequence ID: XP_054295337.1 Length: 110
+>insulin isoform X2 [Pongo abelii]
+Sequence ID: XP_054380089.1 Length: 110 
+Range 1: 1 to 110
+
+Score:222 bits(565), Expect:7e-73, 
+Method:Compositional matrix adjust., 
+Identities:109/110(99%), Positives:109/110(99%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin preproprotein [Pan troglodytes]
+Sequence ID: NP_001008996.1 Length: 110
+Range 1: 1 to 110
+
+Score:221 bits(564), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:108/110(98%), Positives:109/110(99%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLL LLALWGPDPA+AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLVLLALWGPDPASAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Pan paniscus]
+Sequence ID: XP_034787832.1 Length: 204
+Range 1: 95 to 204
+
+Score:224 bits(571), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:109/110(99%), Positives:110/110(100%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA+AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  95   MALWMRLLPLLALLALWGPDPASAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  154
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  155  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  204
+
+
+
+
+>insulin isoform X1 [Pan troglodytes]
+Sequence ID: XP_016775240.2 Length: 204
+Range 1: 95 to 204
+
+Score:224 bits(571), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:109/110(99%), Positives:110/110(100%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA+AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  95   MALWMRLLPLLALLALWGPDPASAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  154
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  155  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  204
+
+
+
+
+>insulin isoform X2 [Symphalangus syndactylus]
+Sequence ID: XP_055150526.1 Length: 153
+Range 1: 44 to 153
+
+Score:222 bits(565), Expect:3e-72, 
+Method:Compositional matrix adjust., 
+Identities:108/110(98%), Positives:108/110(98%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  44   MALWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  103
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  104  PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  153
+
+
+
+
+>insulin isoform X1 [Macaca nemestrina]
+Sequence ID: XP_011719619.2 Length: 153
+>insulin isoform X1 [Macaca thibetana thibetana]
+Sequence ID: XP_050613945.1 Length: 153 
+Range 1: 44 to 153
+
+Score:221 bits(564), Expect:4e-72, 
+Method:Compositional matrix adjust., 
+Identities:108/110(98%), Positives:108/110(98%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  44   MALWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  103
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  104  PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  153
+
+
+
+
+>insulin isoform X2 [Nomascus leucogenys]
+Sequence ID: XP_003281399.1 Length: 110
+>insulin isoform X2 [Macaca nemestrina]
+Sequence ID: XP_011719618.1 Length: 110
+>insulin isoform X2 [Macaca nemestrina]
+Sequence ID: XP_011719620.1 Length: 110
+>insulin isoform X2 [Nomascus leucogenys]
+Sequence ID: XP_012352077.1 Length: 110
+>insulin [Macaca mulatta]
+Sequence ID: XP_028688882.1 Length: 110
+>insulin isoform X2 [Nomascus leucogenys]
+Sequence ID: XP_030667341.1 Length: 110
+>insulin isoform X2 [Macaca thibetana thibetana]
+Sequence ID: XP_050613946.1 Length: 110
+>insulin isoform X2 [Macaca thibetana thibetana]
+Sequence ID: XP_050613947.1 Length: 110
+>insulin isoform X3 [Symphalangus syndactylus]
+Sequence ID: XP_055150527.1 Length: 110
+>insulin isoform X3 [Symphalangus syndactylus]
+Sequence ID: XP_055150529.1 Length: 110 
+Range 1: 1 to 110
+
+Score:219 bits(557), Expect:1e-71, 
+Method:Compositional matrix adjust., 
+Identities:108/110(98%), Positives:108/110(98%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Hylobates moloch]
+Sequence ID: XP_032009712.2 Length: 153
+Range 1: 44 to 153
+
+Score:220 bits(561), Expect:1e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            M LWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  44   MTLWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  103
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  104  PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  153
+
+
+
+
+>insulin [Macaca fascicularis]
+Sequence ID: XP_065383852.1 Length: 147
+Range 1: 38 to 147
+
+Score:219 bits(557), Expect:4e-71, 
+Method:Compositional matrix adjust., 
+Identities:108/110(98%), Positives:108/110(98%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+
+
+>insulin isoform X3 [Hylobates moloch]
+Sequence ID: XP_032009711.1 Length: 110
+>insulin isoform X3 [Hylobates moloch]
+Sequence ID: XP_032009713.1 Length: 110 
+Range 1: 1 to 110
+
+Score:218 bits(554), Expect:4e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            M LWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MTLWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Papio anubis]
+Sequence ID: XP_003909425.2 Length: 110
+>insulin isoform X2 [Papio anubis]
+Sequence ID: XP_009183614.2 Length: 110
+>insulin [Rhinopithecus roxellana]
+Sequence ID: XP_010380355.2 Length: 110
+>PREDICTED: insulin isoform X2 [Colobus angolensis palliatus]
+Sequence ID: XP_011785464.1 Length: 110
+>PREDICTED: insulin isoform X2 [Colobus angolensis palliatus]
+Sequence ID: XP_011785465.1 Length: 110
+>PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+Sequence ID: XP_011843615.1 Length: 110
+>PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+Sequence ID: XP_011843616.1 Length: 110
+>PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+Sequence ID: XP_011843617.1 Length: 110
+>insulin isoform X1 [Rhinopithecus bieti]
+Sequence ID: XP_017743276.1 Length: 110
+>insulin isoform X1 [Rhinopithecus bieti]
+Sequence ID: XP_017743284.1 Length: 110
+>insulin isoform X1 [Rhinopithecus bieti]
+Sequence ID: XP_017743293.1 Length: 110
+>insulin [Trachypithecus francoisi]
+Sequence ID: XP_033062711.1 Length: 110 
+Range 1: 1 to 110
+
+Score:218 bits(554), Expect:4e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Chlorocebus sabaeus]
+Sequence ID: XP_008002825.1 Length: 144
+Range 1: 35 to 144
+
+Score:218 bits(556), Expect:5e-71, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  35   MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  94
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  95   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  144
+
+
+
+
+>PREDICTED: insulin [Cercocebus atys]
+Sequence ID: XP_011896559.1 Length: 110
+>PREDICTED: insulin [Cercocebus atys]
+Sequence ID: XP_011896561.1 Length: 110
+>PREDICTED: insulin [Cercocebus atys]
+Sequence ID: XP_011896562.1 Length: 110 
+Range 1: 1 to 110
+
+Score:216 bits(551), Expect:9e-71, 
+Method:Compositional matrix adjust., 
+Identities:106/110(96%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPL+LEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGAGSLQPLSLEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Rhinopithecus bieti]
+Sequence ID: XP_017743290.1 Length: 147
+Range 1: 38 to 147
+
+Score:218 bits(554), Expect:1e-70, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+
+
+>insulin isoform X1 [Piliocolobus tephrosceles]
+Sequence ID: XP_023039285.1 Length: 110
+>insulin isoform X1 [Piliocolobus tephrosceles]
+Sequence ID: XP_023039286.1 Length: 110 
+Range 1: 1 to 110
+
+Score:216 bits(550), Expect:1e-70, 
+Method:Compositional matrix adjust., 
+Identities:106/110(96%), Positives:106/110(96%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPG GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGTGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X1 [Papio anubis]
+Sequence ID: XP_017803627.2 Length: 147
+Range 1: 38 to 147
+
+Score:217 bits(553), Expect:1e-70, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+
+
+>insulin isoform X4 [Theropithecus gelada]
+Sequence ID: XP_025211013.1 Length: 110
+>insulin isoform X4 [Theropithecus gelada]
+Sequence ID: XP_025211014.1 Length: 110
+>insulin isoform X4 [Theropithecus gelada]
+Sequence ID: XP_025211015.1 Length: 110 
+Range 1: 1 to 110
+
+Score:214 bits(546), Expect:5e-70, 
+Method:Compositional matrix adjust., 
+Identities:106/110(96%), Positives:106/110(96%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPD   AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDSVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Piliocolobus tephrosceles]
+Sequence ID: XP_023039287.1 Length: 147
+Range 1: 38 to 147
+
+Score:216 bits(550), Expect:5e-70, 
+Method:Compositional matrix adjust., 
+Identities:106/110(96%), Positives:106/110(96%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPG GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQVGQVELGGGPGTGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+
+
+>insulin isoform X1 [Chlorocebus sabaeus]
+Sequence ID: XP_008002752.1 Length: 209
+Range 1: 100 to 209
+
+Score:218 bits(554), Expect:7e-70, 
+Method:Compositional matrix adjust., 
+Identities:107/110(97%), Positives:107/110(97%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  100  MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  159
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  160  PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  209
+
+
+
+
+>insulin isoform X2 [Theropithecus gelada]
+Sequence ID: XP_025211011.1 Length: 147
+Range 1: 38 to 147
+
+Score:214 bits(545), Expect:2e-69, 
+Method:Compositional matrix adjust., 
+Identities:106/110(96%), Positives:106/110(96%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPD   AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDSVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+
+
+>insulin [Tupaia belangeri chinensis]
+Sequence ID: XP_006141129.1 Length: 110
+Range 1: 1 to 110
+
+Score:188 bits(477), Expect:2e-59, 
+Method:Compositional matrix adjust., 
+Identities:101/110(92%), Positives:102/110(92%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW R LPLLALLALWGP+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRRE ED
+Sbjct  1    MALWTRFLPLLALLALWGPEPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQVELGGGPGAGSLQPLALE   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   SQVGQVELGGGPGAGSLQPLALEVPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-1 [Rattus rattus]
+Sequence ID: XP_032748073.1 Length: 110
+Range 1: 1 to 110
+
+Score:186 bits(472), Expect:1e-58, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:95/110(86%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL +W P PA AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRFLPLLALLVVWEPKPAQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Kogia breviceps]
+Sequence ID: XP_058924587.1 Length: 110
+Range 1: 1 to 110
+
+Score:185 bits(470), Expect:2e-58, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPSPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q G VELGGGPGAGSLQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQAGDVELGGGPGAGSLQPPALEGRPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Micromys minutus]
+Sequence ID: XP_080768357.1 Length: 110
+Range 1: 1 to 110
+
+Score:184 bits(468), Expect:5e-58, 
+Method:Compositional matrix adjust., 
+Identities:87/110(79%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPL ALL LW P+P  AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE E+
+Sbjct  1    MALWMRFLPLFALLVLWAPNPTQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVEE  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             +V Q+ELGG PGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PEVAQLELGGDPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Mus caroli]
+Sequence ID: XP_021024413.1 Length: 110
+Range 1: 1 to 110
+
+Score:182 bits(461), Expect:5e-57, 
+Method:Compositional matrix adjust., 
+Identities:88/110(80%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWM  LPL+ALL LW   P  AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWMHFLPLVALLFLWESHPTQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X1 [Nannospalax galili]
+Sequence ID: XP_008837426.1 Length: 110
+Range 1: 1 to 110
+
+Score:181 bits(460), Expect:8e-57, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:101/110(91%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLA WGP+P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRLLPLLALLAFWGPNPGQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ+EL GGPGAGS Q LALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGQMELPGGPGAGSPQSLALEAALQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Lipotes vexillifer]
+Sequence ID: XP_007466015.1 Length: 110
+Range 1: 1 to 110
+
+Score:179 bits(455), Expect:5e-56, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFV+QHLCGSHLVEALYLVCGERGFFY  K RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVSQHLCGSHLVEALYLVCGERGFFYAAKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAGSLQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGGGPGAGSLQPPALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Acomys russatus]
+Sequence ID: XP_051002988.1 Length: 110
+Range 1: 1 to 110
+
+Score:176 bits(446), Expect:9e-55, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA+WMR LPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MAVWMRFLPLLALLILWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGLED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGQLELGGGPGAGDLQALALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Chionomys nivalis]
+Sequence ID: XP_057635926.1 Length: 110
+Range 1: 1 to 110
+
+Score:175 bits(444), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Arvicola amphibius]
+Sequence ID: XP_038173309.1 Length: 110
+Range 1: 1 to 110
+
+Score:175 bits(444), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPL+ALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLMALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Cricetulus griseus]
+Sequence ID: XP_003508128.1 Length: 110
+>insulin [Cricetulus griseus]
+Sequence ID: XP_027265003.1 Length: 110 
+Range 1: 1 to 110
+
+Score:175 bits(443), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:100/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLALWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVTQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Peromyscus maniculatus bairdii]
+Sequence ID: XP_006977353.1 Length: 110
+>insulin [Peromyscus leucopus]
+Sequence ID: XP_028728226.1 Length: 110
+>insulin [Onychomys torridus]
+Sequence ID: XP_036032153.1 Length: 110
+>insulin [Onychomys torridus]
+Sequence ID: XP_036032158.1 Length: 110
+>insulin [Peromyscus leucopus]
+Sequence ID: XP_037064779.1 Length: 110
+>insulin [Peromyscus californicus insignis]
+Sequence ID: XP_052569185.1 Length: 110 
+Range 1: 1 to 110
+
+Score:175 bits(443), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLVLWEPKPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Nycticebus coucang]
+Sequence ID: XP_053418912.1 Length: 110
+Range 1: 1 to 110
+
+Score:174 bits(442), Expect:4e-54, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGP PA+AFVNQHLCGSHLVEALYLVCGERGFFYTPK RR+ ED
+Sbjct  1    MALWMRLLPLLALLALWGPQPASAFVNQHLCGSHLVEALYLVCGERGFFYTPKARRDMED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQV LGG P  G LQPLAL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVGLGGSPITGDLQPLALDVPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628431.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628432.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628433.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628434.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628435.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628436.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628437.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628438.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628439.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628440.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628441.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628442.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628443.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628444.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628445.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628446.1 Length: 110
+>insulin isoform 1 [Acomys minous]
+Sequence ID: XP_084628447.1 Length: 110 
+Range 1: 1 to 110
+
+Score:174 bits(442), Expect:5e-54, 
+Method:Compositional matrix adjust., 
+Identities:92/110(84%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA+WMR LPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MAVWMRFLPLLALLILWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGLED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGQLELGGGPGADDLQALALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Alexandromys fortis]
+Sequence ID: XP_049992438.1 Length: 128
+Range 1: 19 to 128
+
+Score:175 bits(443), Expect:6e-54, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  19   MALWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  78
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  79   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  128
+
+
+
+
+>insulin-1 [Mastomys coucha]
+Sequence ID: XP_031240877.1 Length: 110
+>insulin-1 [Mastomys coucha]
+Sequence ID: XP_031240878.1 Length: 110 
+Range 1: 1 to 110
+
+Score:174 bits(441), Expect:6e-54, 
+Method:Compositional matrix adjust., 
+Identities:92/110(84%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW P+PA AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRFLPLLALLILWEPNPAQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVEQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Apodemus sylvaticus]
+Sequence ID: XP_052029588.1 Length: 110
+Range 1: 1 to 110
+
+Score:174 bits(441), Expect:6e-54, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLL LL LW P+PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWMRFLPLLVLLFLWEPNPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Microtus pennsylvanicus]
+Sequence ID: XP_075831044.1 Length: 110
+Range 1: 1 to 110
+
+Score:174 bits(440), Expect:7e-54, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q  Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQAAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Microtus ochrogaster]
+Sequence ID: XP_005351628.2 Length: 110
+Range 1: 1 to 110
+
+Score:174 bits(440), Expect:8e-54, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  E+
+Sbjct  1    MALWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVEN  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Myodes glareolus]
+Sequence ID: XP_048314329.1 Length: 110
+Range 1: 1 to 110
+
+Score:173 bits(439), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Peromyscus eremicus]
+Sequence ID: XP_059105702.1 Length: 110
+Range 1: 1 to 110
+
+Score:173 bits(438), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALL LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MALWMRLLPLLALLVLWEPKPGQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin precursor [Oryctolagus cuniculus]
+Sequence ID: NP_001353985.1 Length: 110
+Range 1: 1 to 110
+
+Score:173 bits(438), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA W RLLPLLALL L  PDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RRE E+
+Sbjct  1    MAPWPRLLPLLALLVLCRPDPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRREVEE  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQ ELGGGP AG LQP ALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQAELGGGPDAGGLQPSALELALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 preproprotein [Rattus norvegicus]
+Sequence ID: NP_062003.1 Length: 110
+Range 1: 1 to 110
+
+Score:172 bits(436), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW+R LPLLALL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWIRFLPLLALLILWEPRPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Mesocricetus auratus]
+Sequence ID: XP_012968060.1 Length: 110
+Range 1: 1 to 110
+
+Score:172 bits(436), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:92/110(84%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            M LWMRLLPLLALL LW P+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RR  ED
+Sbjct  1    MTLWMRLLPLLALLVLWEPNPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 [Rattus rattus]
+Sequence ID: XP_032747262.1 Length: 110
+Range 1: 1 to 110
+
+Score:172 bits(435), Expect:4e-53, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW+R LPLLALL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWIRFLPLLALLVLWEPRPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPVSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Sapajus apella]
+Sequence ID: XP_032124369.1 Length: 108
+>insulin [Sapajus apella]
+Sequence ID: XP_032124370.1 Length: 108
+>insulin [Cebus imitator]
+Sequence ID: XP_037587074.1 Length: 108
+>insulin [Cebus imitator]
+Sequence ID: XP_037587075.1 Length: 108 
+Range 1: 1 to 108
+
+Score:171 bits(434), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:98/110(89%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWM LLPLL LLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  1    MALWMHLLPLLGLLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGG   GSL P  LEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLPP--LEGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+
+
+>insulin isoform X2 [Aotus nancymaae]
+Sequence ID: XP_012311615.1 Length: 108
+Range 1: 1 to 108
+
+Score:171 bits(434), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:99/110(90%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWM LLPLLALLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  1    MALWMHLLPLLALLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGG   GSL P  LEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLPP--LEGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+
+
+>insulin isoform X1 [Aotus nancymaae]
+Sequence ID: XP_064226392.1 Length: 155
+Range 1: 48 to 155
+
+Score:173 bits(438), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:99/110(90%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWM LLPLLALLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  48   MALWMHLLPLLALLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  107
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGG   GSL P  LEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  108  LQVGQVELGGGSITGSLPP--LEGPLQKRGVVDQCCTSICSLYQLQNYCN  155
+
+
+
+
+>insulin isoform X1 [Otolemur garnettii]
+Sequence ID: XP_003798420.1 Length: 110
+Range 1: 1 to 110
+
+Score:171 bits(433), Expect:8e-53, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA+WMRLLPLLALLALWGP+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RR+ ED
+Sbjct  1    MAVWMRLLPLLALLALWGPEPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKARRDTED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQV LGG P  G LQ LAL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVGLGGSPITGDLQSLALDVPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 isoform X3 [Mastomys coucha]
+Sequence ID: XP_031244810.1 Length: 110
+Range 1: 1 to 110
+
+Score:171 bits(433), Expect:9e-53, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:95/110(86%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            M +WMR LPLLALL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MTMWMRFLPLLALLFLWEPHPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPVSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 isoform X1 [Rattus norvegicus]
+Sequence ID: XP_063136821.1 Length: 119
+Range 1: 10 to 119
+
+Score:171 bits(434), Expect:9e-53, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW+R LPLLALL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  10   MALWIRFLPLLALLILWEPRPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  69
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  70   PQVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  119
+
+
+
+
+>insulin-1 preproprotein [Rattus norvegicus]
+Sequence ID: NP_062002.1 Length: 110
+Range 1: 1 to 110
+
+Score:171 bits(433), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:95/110(86%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW P PA AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRFLPLLALLVLWEPKPAQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 [Mus pahari]
+Sequence ID: XP_021060484.1 Length: 110
+>insulin-2 [Mus pahari]
+Sequence ID: XP_021060492.1 Length: 110 
+Range 1: 1 to 110
+
+Score:171 bits(432), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:95/110(86%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW   PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWMRFLPLLALLFLWESHPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 [Arvicanthis niloticus]
+Sequence ID: XP_034379025.1 Length: 110
+Range 1: 1 to 110
+
+Score:171 bits(432), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW P P  AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRFLPLLALLVLWEPHPVQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+EL GGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELDGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Pteropus alecto]
+Sequence ID: XP_006911039.1 Length: 110
+>insulin [Pteropus medius]
+Sequence ID: XP_039696307.1 Length: 110 
+Range 1: 1 to 110
+
+Score:170 bits(430), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALL LW P PA AFV+QHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWTRLLPLLALLGLWAPTPAPAFVSQHLCGSHLVEALYLVCGERGFFYTPKARRELEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q G+VELGGGPGAGS Q LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQGGEVELGGGPGAGSRQALALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Canis aureus]
+Sequence ID: XP_077718997.1 Length: 110
+Range 1: 1 to 110
+
+Score:170 bits(430), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  1    MALWMRLLPLLALLALWAPAPTQAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQV  VEL G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVELAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin precursor [Canis lupus familiaris]
+Sequence ID: NP_001123565.1 Length: 110
+>insulin [Canis lupus dingo]
+Sequence ID: XP_025307639.1 Length: 110
+>insulin isoform X1 [Vulpes vulpes]
+Sequence ID: XP_025859971.1 Length: 110
+>insulin [Nyctereutes procyonoides]
+Sequence ID: XP_055171176.1 Length: 110
+>insulin [Canis lupus baileyi]
+Sequence ID: XP_072646506.1 Length: 110 
+Range 1: 1 to 110
+
+Score:170 bits(430), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  1    MALWMRLLPLLALLALWAPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQV  VEL G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVELAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X3 [Nomascus leucogenys]
+Sequence ID: XP_030667342.1 Length: 98
+Range 1: 1 to 98
+
+Score:169 bits(427), Expect:4e-52, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:96/110(87%), Gaps:12/110(10%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQ------------GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+
+
+>insulin-2 preproprotein [Mus musculus]
+Sequence ID: NP_001172012.1 Length: 110
+>insulin-2 preproprotein [Mus musculus]
+Sequence ID: NP_001172013.1 Length: 110
+>insulin-2 preproprotein [Mus musculus]
+Sequence ID: NP_032413.1 Length: 110 
+Range 1: 1 to 110
+
+Score:169 bits(428), Expect:5e-52, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW   P  AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWMRFLPLLALLFLWESHPTQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Eulemur rufifrons]
+Sequence ID: XP_069327944.1 Length: 109
+Range 1: 1 to 109
+
+Score:169 bits(428), Expect:5e-52, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:98/110(89%), Gaps:1/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALLALWGP+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWTRLLPLLALLALWGPEPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQV   G  G G L PLALEG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVGPDGALGVGGL-PLALEGTPQKRGIVEQCCTSICSLYQLENYCN  109
+
+
+
+
+>insulin isoform X2 [Vulpes vulpes]
+Sequence ID: XP_072614830.1 Length: 124
+Range 1: 15 to 124
+
+Score:169 bits(429), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  15   MALWMRLLPLLALLALWAPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVED  74
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQV  VEL G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  75   LQVRDVELAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  124
+
+
+
+
+>insulin [Vulpes lagopus]
+Sequence ID: XP_041578098.1 Length: 110
+Range 1: 1 to 110
+
+Score:169 bits(427), Expect:9e-52, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  1    MALWMRLLPLLALLALWAPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQV  V+L G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVDLAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Panthera tigris]
+Sequence ID: XP_042815670.1 Length: 110
+Range 1: 1 to 110
+
+Score:168 bits(426), Expect:1e-51, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALL+LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWTRLLPLLALLSLWTPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ   VELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDVELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin [Hyperoodon ampullatus]
+Sequence ID: XP_079565706.1 Length: 110
+Range 1: 1 to 110
+
+Score:168 bits(426), Expect:1e-51, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVG VELGGGPGAG LQP AL+G  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGAVELGGGPGAGGLQPPALDGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-2 [Grammomys surdaster]
+Sequence ID: XP_028642854.1 Length: 110
+>insulin-2 [Grammomys surdaster]
+Sequence ID: XP_028642855.1 Length: 110 
+Range 1: 1 to 110
+
+Score:168 bits(425), Expect:1e-51, 
+Method:Compositional matrix adjust., 
+Identities:89/110(81%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLL LL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE  D
+Sbjct  1    MALWMRFLPLLVLLFLWEPLPAKAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVVD  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPG G LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELGGGPGTGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X2 [Callithrix jacchus]
+Sequence ID: XP_035119628.1 Length: 108
+Range 1: 1 to 108
+
+Score:168 bits(425), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:98/110(89%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA WM LLPLLALLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  1    MAPWMPLLPLLALLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGG   GSL   ALEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLP--ALEGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+
+
+>insulin [Lemur catta]
+Sequence ID: XP_045414405.1 Length: 110
+Range 1: 1 to 110
+
+Score:168 bits(425), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:99/110(90%), Positives:101/110(91%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALLALWGP+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWTRLLPLLALLALWGPEPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQV L G  GAG LQPLALEG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGQVGLDGALGAGGLQPLALEGAPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X1 [Callithrix jacchus]
+Sequence ID: XP_035119627.2 Length: 148
+Range 1: 41 to 148
+
+Score:169 bits(428), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:98/110(89%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA WM LLPLLALLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  41   MAPWMPLLPLLALLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  100
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQVELGGG   GSL   ALEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  101  LQVGQVELGGGSITGSLP--ALEGPLQKRGVVDQCCTSICSLYQLQNYCN  148
+
+
+
+
+>PREDICTED: insulin isoform X3 [Colobus angolensis palliatus]
+Sequence ID: XP_011785466.1 Length: 98
+>PREDICTED: insulin isoform X2 [Mandrillus leucophaeus]
+Sequence ID: XP_011843618.1 Length: 98
+>insulin isoform X3 [Rhinopithecus bieti]
+Sequence ID: XP_017743300.1 Length: 98
+>insulin isoform X3 [Piliocolobus tephrosceles]
+Sequence ID: XP_023039288.1 Length: 98 
+Range 1: 1 to 98
+
+Score:167 bits(423), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:95/110(86%), Gaps:12/110(10%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPDP  AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDPVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQ------------GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+
+
+>insulin [Meriones unguiculatus]
+Sequence ID: XP_021490460.1 Length: 110
+Range 1: 1 to 110
+
+Score:167 bits(424), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:91/110(83%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLA L LW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RR  ED
+Sbjct  1    MALWMRLLPLLAFLILWEPTPAHAFVNQHLCGSHLVEALYLVCGERGFFYTPKFRRGVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q+ Q+ELGG PGAG LQ LALE + QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  61   PQMPQLELGGSPGAGDLQALALEVARQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+
+
+>insulin [Balaenoptera musculus]
+Sequence ID: XP_036716824.1 Length: 110
+>insulin [Eschrichtius robustus]
+Sequence ID: XP_068410806.1 Length: 110 
+Range 1: 1 to 110
+
+Score:167 bits(424), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGGGPGAGGLQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Lepus europaeus]
+Sequence ID: XP_062051635.1 Length: 107
+Range 1: 1 to 107
+
+Score:167 bits(423), Expect:3e-51, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:98/110(89%), Gaps:3/110(2%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA W RLLPLLALL L GPDPA AFV+QHLCGSHLVEALYLVCGERGFFYTPK+RRE E+
+Sbjct  1    MAPWPRLLPLLALLVLCGPDPAQAFVSQHLCGSHLVEALYLVCGERGFFYTPKSRREVEE  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQVGQ ELGGGPG   LQP ALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQAELGGGPG---LQPSALELALQKRGIVEQCCTSICSLYQLENYCN  107
+
+
+
+
+>insulin-1 [Mus pahari]
+Sequence ID: XP_021070669.1 Length: 110
+Range 1: 1 to 110
+
+Score:167 bits(423), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MAL +R LPLLALLALW P+P  AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALLVRFLPLLALLALWEPNPTQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVEQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Herpailurus yagouaroundi]
+Sequence ID: XP_040322184.1 Length: 110
+Range 1: 1 to 110
+
+Score:167 bits(422), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:89/110(81%), Positives:92/110(83%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLL LL+LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWTRLLPLLVLLSLWTPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ    ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDAELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin [Panthera pardus]
+Sequence ID: XP_019292555.1 Length: 110
+>insulin [Acinonyx jubatus]
+Sequence ID: XP_026901706.1 Length: 110
+>insulin [Lynx canadensis]
+Sequence ID: XP_030187244.1 Length: 110
+>insulin [Panthera leo]
+Sequence ID: XP_042762151.1 Length: 110
+>insulin [Lynx rufus]
+Sequence ID: XP_046957087.1 Length: 110
+>insulin [Prionailurus viverrinus]
+Sequence ID: XP_047679766.1 Length: 110
+>insulin [Panthera uncia]
+Sequence ID: XP_049471573.1 Length: 110
+>insulin [Neofelis nebulosa]
+Sequence ID: XP_058546020.1 Length: 110
+>insulin [Panthera onca]
+Sequence ID: XP_060463566.1 Length: 110 
+Range 1: 1 to 110
+
+Score:167 bits(422), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALL+LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWTRLLPLLALLSLWTPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ    ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDAELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin [Prionailurus bengalensis]
+Sequence ID: XP_043437955.1 Length: 110
+Range 1: 1 to 110
+
+Score:167 bits(422), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:92/110(83%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALL LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWTRLLPLLALLCLWTPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ    ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDAELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin [Hyaena hyaena]
+Sequence ID: XP_039081000.1 Length: 110
+>insulin [Crocuta crocuta]
+Sequence ID: XP_077610140.1 Length: 110 
+Range 1: 1 to 110
+
+Score:167 bits(422), Expect:5e-51, 
+Method:Compositional matrix adjust., 
+Identities:92/110(84%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALLALW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWTRLLPLLALLALWTPAPTHAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q   VELGG P AG LQP A  G L+KRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQARDVELGGAPSAGGLQPPAPGGPLRKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Psammomys obesus]
+Sequence ID: XP_055470674.1 Length: 110
+Range 1: 1 to 110
+
+Score:167 bits(422), Expect:5e-51, 
+Method:Compositional matrix adjust., 
+Identities:90/110(82%), Positives:94/110(85%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLA L LW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RR  +D
+Sbjct  1    MALWMRLLPLLAFLILWEPSPAHAFVNQHLCGSHLVEALYLVCGERGFFYTPKFRRGVDD  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q+ Q+ELGG PGAG LQ LALE + QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  61   PQMPQLELGGSPGAGDLQALALEVARQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+
+
+>insulin-2 isoform X2 [Mastomys coucha]
+Sequence ID: XP_031244809.1 Length: 111
+Range 1: 1 to 111
+
+Score:167 bits(422), Expect:5e-51, 
+Method:Compositional matrix adjust., 
+Identities:90/111(81%), Positives:95/111(85%), Gaps:1/111(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            M +WMR LPLLALL LW P PA AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MTMWMRFLPLLALLFLWEPHPAQAFVKQHLCGSHLVEALYLVCGERGFFYTPVSRREVED  60
+
+Query  61   LQ-VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQAVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  111
+
+
+
+
+>insulin [Arvicanthis niloticus]
+Sequence ID: XP_076778178.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(421), Expect:6e-51, 
+Method:Compositional matrix adjust., 
+Identities:88/110(80%), Positives:92/110(83%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW P P  AFV QHLCGSHLVEALYLVCGERGFFYTP +RRE ED
+Sbjct  1    MALWMRFLPLLALLFLWEPYPTQAFVKQHLCGSHLVEALYLVCGERGFFYTPMSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+EL GGPG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVAQLELDGGPGTSDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>PREDICTED: insulin [Propithecus coquereli]
+Sequence ID: XP_012507423.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(421), Expect:7e-51, 
+Method:Compositional matrix adjust., 
+Identities:93/110(85%), Positives:96/110(87%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW  LLPLLALLALWGP+PA AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRRE E+
+Sbjct  1    MALWTHLLPLLALLALWGPEPAPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRRELEE  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q GQV   G  GAG LQ LALEG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQAGQVGPDGSLGAGGLQALALEGAPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Hipposideros armiger]
+Sequence ID: XP_019522928.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(420), Expect:9e-51, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  1    MALWMRLVPLLALLALWTPAPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARRELED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q GQ ELGGGPG G LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQAGQAELGGGPGTGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin-1 [Grammomys surdaster]
+Sequence ID: XP_028632266.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(419), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:88/110(80%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMR LPLLALL LW P PA AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWMRFLPLLALLVLWEPHPAQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGG   AG LQ LALE + QKRGIV+QCCTS+CSLYQLENYCN
+Sbjct  61   PQVAQLELGGSLEAGDLQTLALEVARQKRGIVDQCCTSVCSLYQLENYCN  110
+
+
+
+
+>insulin [Leopardus geoffroyi]
+Sequence ID: XP_045343176.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(419), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:89/110(81%), Positives:93/110(84%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALL+LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREA+D
+Sbjct  1    MALWTRLLPLLALLSLWTPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREADD  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ    ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDAELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin-1-like [Apodemus sylvaticus]
+Sequence ID: XP_052028151.1 Length: 110
+Range 1: 1 to 110
+
+Score:166 bits(419), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:86/110(78%), Positives:92/110(83%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW+R L LL LL LW P PA AFV QHLCG HLVEALYLVCGERGFFYTPK+RRE E 
+Sbjct  1    MALWIRFLALLTLLILWEPSPAQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVEY  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QV Q+ELGGGPG G L+ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVEQLELGGGPGTGDLETLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Saimiri boliviensis]
+Sequence ID: XP_010329449.2 Length: 155
+Range 1: 48 to 155
+
+Score:167 bits(422), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:92/110(84%), Positives:97/110(88%), Gaps:2/110(1%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWM LLPLLALLALWGP+PA AFVNQHLCG HLVEALYLVCGERGFFY PKTRREAED
+Sbjct  48   MALWMHLLPLLALLALWGPEPAPAFVNQHLCGPHLVEALYLVCGERGFFYAPKTRREAED  107
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ ELGGG   GSL   +LEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  108  PQVGQAELGGGSITGSLS--SLEGLLQKRGVVDQCCTSICSLYQLQNYCN  155
+
+
+
+
+>insulin [Balaenoptera physalus]
+Sequence ID: XP_082334509.1 Length: 110
+Range 1: 1 to 110
+
+Score:165 bits(418), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQP A EG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGGGPGAGGLQPRAPEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>LOW QUALITY PROTEIN: insulin [Eubalaena glacialis]
+Sequence ID: XP_061059793.1 Length: 234
+Range 1: 125 to 234
+
+Score:169 bits(428), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:97/110(88%), Positives:98/110(89%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  125  MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  184
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  185  PQVGAVELGGGPGAGGLQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  234
+
+
+
+
+>insulin isoform X5 [Theropithecus gelada]
+Sequence ID: XP_025211016.1 Length: 98
+Range 1: 1 to 98
+
+Score:164 bits(416), Expect:3e-50, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:94/110(85%), Gaps:12/110(10%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPD   AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  1    MALWMRLLPLLALLALWGPDSVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQ------------GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+
+
+>insulin [Balaenoptera borealis]
+Sequence ID: XP_082196907.1 Length: 110
+Range 1: 1 to 110
+
+Score:164 bits(415), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:96/110(87%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELG GPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGAGPGAGGLQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Miniopterus schreibersii]
+Sequence ID: XP_081010374.1 Length: 110
+Range 1: 1 to 110
+
+Score:164 bits(415), Expect:6e-50, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLLALLA W P PA  FVNQHLCGSHLVEALYLVCGERGFFYTPK RRE  D
+Sbjct  1    MALWTRLLPLLALLAAWAPAPAQTFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVPD  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q G+VELGGGPGAGSLQ LALEG LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQAGEVELGGGPGAGSLQALALEGPLQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Mesoplodon densirostris]
+Sequence ID: XP_059960577.1 Length: 110
+Range 1: 1 to 110
+
+Score:163 bits(413), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQP AL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGGGPGAGGLQPPALDWPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin isoform X3 [Theropithecus gelada]
+Sequence ID: XP_025211012.1 Length: 135
+Range 1: 38 to 135
+
+Score:164 bits(415), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:94/110(85%), Positives:94/110(85%), Gaps:12/110(10%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALWGPD   AFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+Sbjct  38   MALWMRLLPLLALLALWGPDSVPAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  97
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             Q            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  98   PQ------------GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  135
+
+
+
+
+>insulin [Rhinolophus hipposideros]
+Sequence ID: XP_080920038.1 Length: 110
+Range 1: 1 to 110
+
+Score:163 bits(413), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:99/110(90%), Positives:100/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MALWMRLLPLLALLALWTPAPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGPVELGGGPGAGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Castor canadensis]
+Sequence ID: XP_020024407.1 Length: 110
+Range 1: 1 to 110
+
+Score:163 bits(413), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:99/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALW RLLPLL LLALWGPDPA AFVNQHLCGSHLVEALYLVCGERGFFYTPK+RRE ED
+Sbjct  1    MALWTRLLPLLGLLALWGPDPAQAFVNQHLCGSHLVEALYLVCGERGFFYTPKSRREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ+ELGGGPG G  Q LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGQMELGGGPGVGGPQSLALEVAPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin precursor [Felis catus]
+Sequence ID: NP_001009272.1 Length: 110
+>insulin isoform X1 [Felis catus]
+Sequence ID: XP_019666739.1 Length: 110 
+Range 1: 1 to 110
+
+Score:163 bits(413), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:89/110(81%), Positives:92/110(83%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MA W RLLPLLALL+LW P P  AFVNQHLCGSHLVEALYLVCGERGFFYTPK RREAED
+Sbjct  1    MAPWTRLLPLLALLSLWIPAPTRAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREAED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+            LQ    ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  61   LQGKDAELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+
+
+>insulin [Mesoplodon bidens]
+Sequence ID: XP_081097169.1 Length: 110
+Range 1: 1 to 110
+
+Score:163 bits(413), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:95/110(86%), Positives:97/110(88%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRL+PLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE E 
+Sbjct  1    MALWMRLVPLLALLALWAPTPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVEG  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVG VELGGGPGAG LQP AL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   PQVGAVELGGGPGAGGLQPPALDWPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+
+
+>insulin [Rhinolophus sinicus]
+Sequence ID: XP_019569256.1 Length: 110
+Range 1: 1 to 110
+
+Score:163 bits(412), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:98/110(89%), Positives:100/110(90%), Gaps:0/110(0%)
+
+Query  1    MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED  60
+            MALWMRLLPLLALLALW P PA AFVNQHLCGSHLVEALYLVCGERGFFYTPK RRE ED
+Sbjct  1    MALWMRLLPLLALLALWTPAPARAFVNQHLCGSHLVEALYLVCGERGFFYTPKARREVED  60
+
+Query  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+             QVGQ+ELGGGPGAG LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   PQVGQMELGGGPGAGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+
+
+
+
+
+		
+
+
